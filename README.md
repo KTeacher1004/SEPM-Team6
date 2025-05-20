@@ -14,3 +14,11 @@ Back-end-features: Where BE developers push code and open PRs to back-end
 Deployment Phase:
 Back-end source deploying with Render link: https://ecademy-backend.onrender.com
 Front-end source deploying with Vercel link: https://ecademy.vercel.app
+
+Account:
+Teachers
+Email: s23456@rmit.edu.vn
+Pass: IloveRMIT
+Student
+Email: s33344@rmit.edu.vn 
+Password: IloveT1
